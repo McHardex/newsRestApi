@@ -8,6 +8,11 @@ const router = express.Router();
 const _ = require('lodash');
 const bcrypt = require('bcrypt');
 
+router.get('/', async (req, res) => {
+  const users = await User.find().sort('-name');
+  res.send(users);
+});
+
 router.get('/me', auth, async (req, res) => {
   const users = await User.findById(req.user._id).select('-password');
   res.send(users);

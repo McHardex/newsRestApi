@@ -1,0 +1,168 @@
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (/Users/adebisioluwabukunmi/Desktop/tantalearn/complete-node-api-course/vidly/index.js:26:7)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)\n    at startup (internal/bootstrap/node.js:266:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)","level":"error","timestamp":"2018-09-17T17:18:56.586Z"}
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (/Users/adebisioluwabukunmi/Desktop/tantalearn/complete-node-api-course/vidly/index.js:31:26)\n    at Module._compile (internal/modules/cjs/loader.js:689:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)\n    at Module.load (internal/modules/cjs/loader.js:599:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:530:3)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)\n    at startup (internal/bootstrap/node.js:266:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:596:3)","level":"error","timestamp":"2018-09-17T17:25:03.175Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:02:32.284Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:02:57.347Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:03:36.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:03:36.571Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:04:00.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:04:00.547Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:04:06.557Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:04:06.601Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:05:06.329Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:05:06.382Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:21:09.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:21:09.250Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:23:46.146Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:23:46.177Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:24:01.610Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:24:58.698Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:24:58.724Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:26:33.828Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:26:33.859Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:26:56.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:26:56.597Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:27:14.605Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-10-02T15:27:14.634Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:28:45.066Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:29:01.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:29:01.772Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:30:12.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:30:12.109Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:30:24.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:30:24.840Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:33:30.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:33:30.412Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:33:42.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:33:42.474Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:34:04.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:34:04.409Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:34:10.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:34:10.735Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:34:28.506Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:34:28.569Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:34:42.745Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:34:42.790Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:35:10.479Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:35:10.547Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:36:18.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:36:18.289Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:38:55.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:38:55.165Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:40:57.958Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:40:58.026Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:41:14.325Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:41:14.391Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:41:57.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:41:57.838Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:43:12.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:43:12.533Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:43:18.904Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:43:18.968Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:43:41.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:43:41.962Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:44:10.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:44:10.482Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:45:27.808Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:45:27.875Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:49:18.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:49:18.472Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:49:34.585Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:49:34.629Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:50:05.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:50:05.383Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:50:40.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:50:40.848Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:50:51.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:50:51.504Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:51:22.048Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:51:22.118Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:51:47.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:51:47.813Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:52:31.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:52:31.473Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:52:49.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:52:49.121Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:53:01.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:53:01.267Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:54:03.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:54:03.280Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:54:20.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:54:20.107Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T15:54:36.938Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T15:54:36.993Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:03:00.345Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:03:00.410Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:03:23.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:03:23.179Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:04:26.674Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:04:26.720Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:04:39.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:04:39.566Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:04:58.584Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:04:58.651Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:05:15.608Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:05:15.656Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:05:40.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:05:40.109Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:08:37.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:08:37.156Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:08:55.772Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:08:55.809Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:09:04.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:09:04.490Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:09:17.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:09:17.954Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:09:30.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:09:30.456Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:09:57.670Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:09:57.730Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:10:07.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:10:07.360Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:10:13.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:10:13.229Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:10:45.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:10:45.919Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:12:16.240Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:12:16.279Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:13:19.009Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:13:19.063Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:14:41.691Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:14:41.753Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:15:09.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:15:10.041Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:15:46.117Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:15:46.169Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:19:03.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:19:03.265Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:19:24.150Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:30:08.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:30:08.348Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:30:31.133Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:30:31.195Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:31:04.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:31:04.432Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:31:33.126Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:31:33.182Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:32:33.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:32:33.893Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:33:23.208Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:33:23.268Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:33:45.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:33:45.619Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:34:25.005Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:34:25.071Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:34:43.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:34:43.257Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:35:00.418Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:35:00.470Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:36:11.856Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:36:11.900Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:37:32.327Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:37:32.374Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:40:24.153Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:40:24.209Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:40:55.453Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:40:55.506Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:41:22.750Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2018-10-02T16:41:22.800Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-02T16:45:33.316Z"}
