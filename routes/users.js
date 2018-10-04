@@ -9,21 +9,30 @@ const _ = require('lodash');
 const bcrypt = require('bcrypt');
 
 router.get('/', async (req, res) => {
-  const users = await User.find().sort('email');
+  const users = await User
+    .find()
+    .sort('email')
+    .populate({path: 'articles'})
+    .select('-password');
+
   res.send(users);
 });
 
 router.get('/me', auth, async (req, res) => {
-  const users = await User.findById(req.user._id).select('-name');
-  res.send(users);
+  const user = await User
+    .findById(req.user._id)
+    .populate('articles')
+    .select('-password');
+    res.send(user);
 });
 
 router.post('/', async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(400).send(error.details[0].message);
+  if (error) return res.status(422).send(error.details[0].message);
  
   let user = await User.findOne({ email: req.body.email });
-  if (user) return res.status(400).send('User already registered.');
+  if (user) return res.status(422).send('User already registered.');
+
   user = new User(_.pick(req.body, ['name', 'email', 'bio', 'password']));
   const salt = await bcrypt.genSalt(10)
   user.password = await bcrypt.hash(user.password, salt)
@@ -35,26 +44,35 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', auth, async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(400).send(error.details[0].message);
+  if (error) return res.status(422).send(error.details[0].message);
 
-  const user = await User.findByIdAndUpdate(req.params.id, {
-    name: req.body.name,
-    email: req.body.email,
-    bio: req.body.bio,
-    password: req.body.password
-  }, {
-    new: true
-  });
+  const user = await User.findById(req.params.id);
 
-  if (!user) return res.status(404).send('The user with the given ID was not found.');
-  res.send(user);
+  if(JSON.stringify(req.user._id) === JSON.stringify(req.params.id)) {
+    await user.updateOne({
+      name: req.body.name,
+      email: req.body.email,
+      bio: req.body.bio,
+      password: req.body.password
+    });
+    const updatedUser = await User.findById(req.user._id);
+    res.status(200).send(user);
+  } else {
+    return res.status(401).send('Unauthorized');
+  }
 });
 
 router.delete('/:id', auth, async (req, res) => {
-  const user = await User.findByIdAndRemove(req.params.id);
+  const user = await User.findById(req.params.id);
 
-  if (!user) return res.status(404).send('The user with the given ID was not found.');
-  res.send(user);
+  if (JSON.stringify(req.user._id) === JSON.stringify(user._id)) {
+
+    const result = await user.delete();
+
+    return res.status(204).send({});
+  } else {
+    return res.status(401).send('Unauthorized');
+  }
 });
 
 module.exports = router;
