@@ -23,8 +23,6 @@ router.post('/', [auth], async (req, res) => {
 
   const user = await User.findById(req.user._id);
 
-  if (!user) return res.status(422).send('Invalid user.');
-
   let article = new Article({
     title: req.body.title,
     user: user._id,
@@ -63,7 +61,10 @@ router.put('/:id', [auth], async (req, res) => {
 
 router.delete('/:id', [auth], async (req, res) => {
   const user = await User.findById(req.user._id)
+  if (!user) return res.status(404).send('The user with the given ID was not found.');
+
   const article = await Article.findById(req.params.id);
+  if (!article) return res.status(404).send('The article with the given ID was not found.');
 
   if (JSON.stringify(req.user._id) === JSON.stringify(article.user)) {
     const userArticles = user.articles
@@ -80,7 +81,6 @@ router.delete('/:id', [auth], async (req, res) => {
 });
 
 router.get('/:id', validateObjectId, async (req, res) => {
-
   const article = await Article.findById(req.params.id);
 
   if (!article) return res.status(404).send('The article with the given ID was not found.');

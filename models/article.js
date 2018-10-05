@@ -46,7 +46,7 @@ const Article = mongoose.model('Article', articleSchema);
 
 function validateArticle(article) {
   const schema = {
-    title: Joi.string().min(10).max(100).required(),
+    title: Joi.string().min(10).max(60).required(),
     subheading: Joi.string().min(20).max(100).required(),
     leadParagraph: Joi.string().min(50).max(1000).required(),
     body: Joi.string().min(50).max(1000).required(),

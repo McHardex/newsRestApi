@@ -12,15 +12,14 @@ module.exports = function () {
     throw ex;
   });
   
-  // winston.add(winston.transports.File, {
-  //   filename: 'logfile.log'
-  // });
+  winston.add(winston.transports.File, {
+    filename: 'logfile.log'
+  });
   
   // winston.add(winston.transports.MongoDB, {
   //   db: 'mongodb://localhost/vidly',
-  //   level: 'error'
+  //   level: 'info'
   // })
-
   // const p = Promise.reject(new Error('Something failed miserably'));
   // p.then(() => console.log('Done'));
   
