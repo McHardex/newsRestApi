@@ -1,5 +1,5 @@
 {
-  "name": "newsrestapi",
+  "name": "mchnews",
   "version": "1.0.0",
   "description": "a news restful api",
   "main": "index.js",
