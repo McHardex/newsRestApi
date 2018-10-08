@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "a news restful api",
   "main": "index.js",
-  "engines": {
-    "node": "10.11.0"
-  },
   "scripts": {
     "test": "jest --watchAll --verbose",
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.11.0"
   },
   "keywords": [],
   "author": "",
