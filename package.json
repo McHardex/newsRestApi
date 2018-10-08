@@ -1,27 +1,35 @@
 {
   "name": "newsrestapi",
   "version": "1.0.0",
-  "description": "setting private key in terminal export vidly_jwtPrivateKey=key",
+  "description": "a news restful api",
   "main": "index.js",
-  "directories": {
-    "test": "tests"
+  "engines": {
+    "node": "10.11.0"
   },
-  "dependencies": {
-    "compression": "^1.7.3",
-    "helmet": "^3.13.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --verbose",
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/McHardex/newsRestApi.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/McHardex/newsRestApi/issues"
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "compression": "^1.7.3",
+    "config": "^2.0.1",
+    "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "helmet": "^3.13.0",
+    "joi": "^13.6.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.2.14",
+    "winston": "^2.4.0",
+    "winston-mongodb": "^3.0.0"
   },
-  "homepage": "https://github.com/McHardex/newsRestApi#readme"
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "supertest": "^3.0.0"
+  }
 }
