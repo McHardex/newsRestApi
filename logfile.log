@@ -1540,3 +1540,9 @@
 {"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-10-05T02:22:21.521Z"}
 {"level":"info","message":"Listening on port 5002...","timestamp":"2018-10-05T02:22:21.971Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-10-05T02:22:22.027Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-08T10:57:17.103Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-08T10:59:37.291Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-08T11:20:09.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-08T11:20:09.234Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-08T11:30:05.559Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-08T11:32:00.599Z"}
