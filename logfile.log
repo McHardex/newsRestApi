@@ -1558,3 +1558,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-08T14:18:18.015Z"}
 {"level":"info","message":"Listening on port 5090...","timestamp":"2018-10-08T14:18:57.334Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-08T14:18:57.378Z"}
+{"level":"info","message":"Listening on port 5090...","timestamp":"2018-10-08T15:01:42.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-08T15:01:42.357Z"}
