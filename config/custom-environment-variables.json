@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "news_jwtPrivateKey"
+  "jwtPrivateKey": "news_jwtPrivateKey",
+  "db": "news_db"
 }
