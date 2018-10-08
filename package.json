@@ -1,32 +1,27 @@
 {
   "name": "newsrestapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "setting private key in terminal export vidly_jwtPrivateKey=key",
   "main": "index.js",
-  "scripts": {
-    "test": "jest --watchAll --verbose --coverage",
-    "start": "node index.js"
+  "directories": {
+    "test": "tests"
   },
-  "keywords": [],
+  "dependencies": {
+    "compression": "^1.7.3",
+    "helmet": "^3.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McHardex/newsRestApi.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "bcrypt": "^3.0.0",
-    "compression": "^1.7.3",
-    "config": "^2.0.1",
-    "express": "^4.16.3",
-    "express-async-errors": "^3.0.0",
-    "helmet": "^3.13.0",
-    "joi": "^13.6.0",
-    "joi-objectid": "^2.0.0",
-    "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.11",
-    "mongoose": "^5.2.14",
-    "winston": "^2.4.0",
-    "winston-mongodb": "^3.0.0"
+  "bugs": {
+    "url": "https://github.com/McHardex/newsRestApi/issues"
   },
-  "devDependencies": {
-    "jest": "^23.6.0",
-    "supertest": "^3.0.0"
-  }
+  "homepage": "https://github.com/McHardex/newsRestApi#readme"
 }
