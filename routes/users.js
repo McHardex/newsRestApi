@@ -15,7 +15,7 @@ router.get('/', async (req, res) => {
     .populate({path: 'articles'})
     .select('-password');
 
-  res.send(users);
+  res.send({users: users});
 });
 
 router.get('/me', auth, async (req, res) => {
@@ -23,15 +23,15 @@ router.get('/me', auth, async (req, res) => {
     .findById(req.user._id)
     .populate('articles')
     .select('-password');
-    res.send(user);
+    res.send({user: user});
 });
 
 router.post('/', async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(422).send(error.details[0].message);
+  if (error) return res.status(422).send({error: error.details[0].message});
  
   let user = await User.findOne({ email: req.body.email });
-  if (user) return res.status(422).send('User already registered.');
+  if (user) return res.status(422).send({error: 'User already registered.'});
 
   user = new User(_.pick(req.body, ['name', 'email', 'bio', 'password']));
   const salt = await bcrypt.genSalt(10)
@@ -44,7 +44,7 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', auth, async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(422).send(error.details[0].message);
+  if (error) return res.status(422).send({error: error.details[0].message});
 
   const user = await User.findById(req.params.id);
 
@@ -56,9 +56,9 @@ router.put('/:id', auth, async (req, res) => {
       password: req.body.password
     });
     const updatedUser = await User.findById(req.user._id);
-    res.status(200).send(user);
+    res.status(200).send({user: user});
   } else {
-    return res.status(401).send('Unauthorized');
+    return res.status(401).send({errors: 'Unauthorized'});
   }
 });
 
@@ -71,7 +71,7 @@ router.delete('/:id', auth, async (req, res) => {
 
     return res.status(204).send({});
   } else {
-    return res.status(401).send('Unauthorized');
+    return res.status(401).send({errors: 'Unauthorized'});
   }
 });
 
