@@ -28,10 +28,10 @@ router.get('/me', auth, async (req, res) => {
 
 router.post('/', async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(422).send({error: error.details[0].message});
+  if (error) return res.status(422).send({errors: error.details[0].message});
  
   let user = await User.findOne({ email: req.body.email });
-  if (user) return res.status(422).send({error: 'User already registered.'});
+  if (user) return res.status(422).send({errors: 'User already registered.'});
 
   user = new User(_.pick(req.body, ['name', 'email', 'bio', 'password']));
   const salt = await bcrypt.genSalt(10)
@@ -44,7 +44,7 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', auth, async (req, res) => {
   const { error } = validate(req.body);
-  if (error) return res.status(422).send({error: error.details[0].message});
+  if (error) return res.status(422).send({errors: error.details[0].message});
 
   const user = await User.findById(req.params.id);
 
