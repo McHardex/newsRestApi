@@ -27,8 +27,7 @@ const userSchema = new Schema({
   password: {
     type: String,
     required: true,
-    minlength: 8,
-    maxlength: 1024
+    minlength: 6,
   },
   isWriter: Boolean,
   articles: [{ type: Schema.Types.ObjectId, ref: 'Article' }]
@@ -44,9 +43,9 @@ const User = mongoose.model('User', userSchema);
 function validateUser(user) {
   const schema = {
     name: Joi.string().min(5).max(50).required(),
-    email: Joi.string().min(5).max(255).required().email(),
+    email: Joi.string().min(5).max(255).required().email().lowercase(),
     bio: Joi.string().min(5).max(255).required(),
-    password: Joi.string().regex(/[a-zA-Z0-9]{6,30}/).required()
+    password: Joi.string().min(6).alphanum().required()
   };
 
   return Joi.validate(user, schema);
