@@ -13,13 +13,13 @@ router.get('/', async (req, res, next) => {
     .sort("-datePublished")
     .populate({path: 'user', select: '-articles -password'});
 
-  res.send(articles);
+  res.send({articles: articles});
 });
 
 router.post('/', [auth], async (req, res) => {
   const { error } = validate(req.body);
 
-  if (error) return res.status(422).send(error.details[0].message);
+  if (error) return res.status(422).send({errors: error.details[0].message});
 
   const user = await User.findById(req.user._id);
 
@@ -35,13 +35,13 @@ router.post('/', [auth], async (req, res) => {
   article = await article.save();
   user.articles.push(article)
   user.save();
-  res.send(article);
+  res.send({article: article});
 });
 
 router.put('/:id', [auth], async (req, res) => {
   const { error } = validate(req.body);
 
-  if (error) return res.status(422).send(error.details[0].message);
+  if (error) return res.status(422).send({errors: error.details[0].message});
   const article = await Article.findById(req.params.id);
 
   if(JSON.stringify(req.user._id) === JSON.stringify(article.user)) {
@@ -53,18 +53,18 @@ router.put('/:id', [auth], async (req, res) => {
       imageUrl: req.body.imageUrl
     });
     const updatedArticle = await Article.findById(req.params.id);
-    res.status(200).send(updatedArticle);
+    res.status(200).send({article: updatedArticle});
   } else {
-    return res.status(401).send('Unauthorized');
+    return res.status(401).send({errors: 'Unauthorized'});
   }
 });
 
 router.delete('/:id', [auth], async (req, res) => {
   const user = await User.findById(req.user._id)
-  if (!user) return res.status(404).send('The user with the given ID was not found.');
+  if (!user) return res.status(404).send({errors: 'The user with the given ID was not found.'});
 
   const article = await Article.findById(req.params.id);
-  if (!article) return res.status(404).send('The article with the given ID was not found.');
+  if (!article) return res.status(404).send({errors: 'The article with the given ID was not found.'});
 
   if (JSON.stringify(req.user._id) === JSON.stringify(article.user)) {
     const userArticles = user.articles
@@ -76,16 +76,16 @@ router.delete('/:id', [auth], async (req, res) => {
 
     return res.status(204).send({});
   } else {
-    return res.status(401).send('Unauthorized');
+    return res.status(401).send({errors: 'Unauthorized'});
   }
 });
 
 router.get('/:id', validateObjectId, async (req, res) => {
   const article = await Article.findById(req.params.id);
 
-  if (!article) return res.status(404).send('The article with the given ID was not found.');
+  if (!article) return res.status(404).send({errors: 'The article with the given ID was not found.'});
 
-  res.send(article);
+  res.send({article: article});
 });
 
 module.exports = router;
