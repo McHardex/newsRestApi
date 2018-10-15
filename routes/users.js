@@ -52,7 +52,7 @@ router.put('/:id', auth, async (req, res) => {
     await user.updateOne({
       name: req.body.name,
       email: req.body.email,
-      bio: req.body.bio,
+      bio: req.body.bio
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: user});
