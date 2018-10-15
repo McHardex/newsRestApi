@@ -53,7 +53,6 @@ router.put('/:id', auth, async (req, res) => {
       name: req.body.name,
       email: req.body.email,
       bio: req.body.bio,
-      password: req.body.password
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: user});
