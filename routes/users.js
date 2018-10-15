@@ -18,7 +18,7 @@ router.get('/', async (req, res) => {
   res.send({users: users});
 });
 
-router.get('/me', auth, async (req, res) => {
+router.get('/me', async (req, res) => {
   const user = await User
     .findById(req.user._id)
     .populate('articles')
