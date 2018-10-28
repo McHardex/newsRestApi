@@ -5,10 +5,11 @@ const users = require('../routes/users');
 const auth = require('../routes/auth');
 const error = require('../middleware/error');
 const cors = require('cors');
+const corsOptions = require('../middleware/corsOptions')
 
 module.exports = function(app) {
   app.use(express.json());
-  app.use(cors());
+  app.use(cors(corsOptions));
   app.use('/api/articles', articles);
   app.use('/api/writers', writers);
   app.use('/api/users', users);
