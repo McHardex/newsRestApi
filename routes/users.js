@@ -42,7 +42,7 @@ router.post('/', async (req, res) => {
   res.header('x-auth-token', token).send({user: _.pick(user, ['_id', 'name', 'email', 'bio'])});
 });
 
-router.put('/:id', auth, async (req, res) => {
+router.put('/:id', async (req, res) => {
   const { error } = validate(req.body);
   if (error) return res.status(422).send({errors: error.details[0].message});
 
