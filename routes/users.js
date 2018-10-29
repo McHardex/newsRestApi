@@ -49,11 +49,13 @@ router.put('/:id', [auth], async (req, res) => {
   const user = await User.findById(req.params.id);
 
   if(JSON.stringify(req.user._id) === JSON.stringify(req.params.id)) {
+    const salt = await bcrypt.genSalt(10)
+    const password = await bcrypt.hash(req.body.password, salt)
     await user.updateOne({
       name: req.body.name,
       email: req.body.email,
       bio: req.body.bio,
-      password: req.body.password
+      password: password
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: updatedUser});
