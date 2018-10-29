@@ -43,8 +43,8 @@ router.post('/', async (req, res) => {
 });
 
 router.put('/:id', async (req, res) => {
-  // const { error } = validate(req.body);
-  // if (error) return res.status(422).send({errors: error.details[0].message});
+  const { error } = validate(req.body);
+  if (error) return res.status(422).send({errors: error.details[0].message});
 
   const user = await User.findById(req.params.id);
 
@@ -52,10 +52,12 @@ router.put('/:id', async (req, res) => {
     await user.updateOne({
       name: req.body.name,
       email: req.body.email,
-      bio: req.body.bio
+      bio: req.body.bio,
+      password: req.body.password
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: updatedUser});
+    await user.save();
   } else {
     return res.status(401).send({errors: 'Unauthorized'});
   }
