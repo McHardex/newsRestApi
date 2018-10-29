@@ -43,8 +43,8 @@ router.post('/', async (req, res) => {
 });
 
 router.put('/:id', async (req, res) => {
-  const { error } = validate(req.body);
-  if (error) return res.status(422).send({errors: error.details[0].message});
+  // const { error } = validate(req.body);
+  // if (error) return res.status(422).send({errors: error.details[0].message});
 
   const user = await User.findById(req.params.id);
 
