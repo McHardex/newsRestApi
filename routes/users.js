@@ -55,7 +55,7 @@ router.put('/:id', auth, async (req, res) => {
       bio: req.body.bio
     });
     const updatedUser = await User.findById(req.user._id);
-    res.status(200).send({user: user});
+    res.status(200).send({user: updatedUser});
   } else {
     return res.status(401).send({errors: 'Unauthorized'});
   }
