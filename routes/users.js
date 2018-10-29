@@ -57,7 +57,6 @@ router.put('/:id', async (req, res) => {
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: updatedUser});
-    await user.save();
   } else {
     return res.status(401).send({errors: 'Unauthorized'});
   }
