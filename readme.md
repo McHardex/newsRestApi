@@ -48,5 +48,5 @@ ___
 
 The tests are run using Jest.
 ```
-run `npm test`
+npm test
 ```
