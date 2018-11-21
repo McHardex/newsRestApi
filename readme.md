@@ -10,9 +10,7 @@
 | **GET api/writers** | - | Fetches all users who have written a minimum of 1 article | true
 | **GET api/me** | - | Fetches personal profile | true
 
-___
-<!-- [See Detailed Endpoints Documentation Here](https://t-tracker-api.herokuapp.com/) -->
-___
+
 
 # Running The Application
 
