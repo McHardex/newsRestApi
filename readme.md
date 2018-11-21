@@ -35,11 +35,12 @@ cd newsRestApi
 ```
 run `mongod` on terminal to start mongoose server
 ```
+- set the secret key
 ```
 export news_jwtPrivateKey='<A SECRETE KEY>'
 ```
 ```
-run `npm start` to start the app 
+run *npm start* to start the app 
 ```
 ___
 
