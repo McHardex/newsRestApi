@@ -18,28 +18,28 @@ ___
 
 -  Clone or download the repo
 ```
-`git clone https://github.com/McHardex/newsRestApi.git`
+git clone https://github.com/McHardex/newsRestApi.git
 ```
 
 - Navigate to the app directory
 ```
-`cd newsRestApi`
+cd newsRestApi
 ```
 
 - Bundle dependencies
 ```
-`npm install`
+npm install
 ```
 
 - Start the application
 ```
-  `mongod` on terminal to start mongoose server
+run ```mongod``` on terminal to start mongoose server
 ```
 ```
 export news_jwtPrivateKey='<A SECRETE KEY>'
 ```
 ```
-`npm start` to start the app 
+npm start  -to start the app 
 ```
 ___
 
@@ -47,5 +47,5 @@ ___
 
 The tests are run using Jest.
 ```
-`npm test`
+npm test
 ```
