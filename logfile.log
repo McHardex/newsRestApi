@@ -1562,3 +1562,19 @@
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-08T15:01:42.357Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2018-10-10T13:23:18.184Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-10-10T13:23:18.236Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:09:12.996Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:12:09.046Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:12:58.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-11-21T20:12:58.278Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:13:41.538Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-11-21T20:13:41.623Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:19:21.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-11-21T20:19:21.983Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:20:00.429Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-11-21T20:20:00.508Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:20:05.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-11-21T20:20:06.007Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:20:36.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-11-21T20:20:36.525Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-21T20:20:39.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news_test...","timestamp":"2018-11-21T20:20:39.727Z"}
