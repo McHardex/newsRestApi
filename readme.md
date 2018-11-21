@@ -28,19 +28,20 @@ cd newsRestApi
 
 - Bundle dependencies
 ```
-`npm install`
+npm install
 ```
 
 - Start the application
 ```
-run `mongod` on terminal to start mongoose server
-```
-- set the secret key
-```
 export news_jwtPrivateKey='<A SECRETE KEY>'
 ```
+To start mongoose server, run
 ```
-run *npm start* to start the app 
+mongod
+```
+To start the app run
+```
+npm start
 ```
 ___
 
