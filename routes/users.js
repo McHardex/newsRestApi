@@ -40,11 +40,10 @@ router.post('/', async (req, res) => {
 });
 
 router.put('/:id', [auth], async (req, res) => {
-  const id = req.params.id
   const { error } = validateUserUpdate(req.body);
   if (error) return res.status(422).send({errors: error.details[0].message});
 
-  const user = await User.findByIdAndUpdate(id, req.body);
+  const user = await User.findById(req.params.id);
 
   if(JSON.stringify(req.user._id) === JSON.stringify(req.params.id)) {
     await user.updateOne({
