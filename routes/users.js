@@ -1,8 +1,5 @@
 const auth = require('../middleware/auth');
-const jwt = require('jsonwebtoken');
-const config = require('config');
-const { User, validate} = require('../models/user');
-const mongoose = require('mongoose');
+const { User, validate, validateUserUpdate} = require('../models/user');
 const express = require('express');
 const router = express.Router();
 const _ = require('lodash');
@@ -44,7 +41,7 @@ router.post('/', async (req, res) => {
 
 router.put('/:id', [auth], async (req, res) => {
   const id = req.params.id
-  const { error } = validate(req.body);
+  const { error } = validateUserUpdate(req.body);
   if (error) return res.status(422).send({errors: error.details[0].message});
 
   const user = await User.findByIdAndUpdate(id, req.body);
@@ -61,6 +58,7 @@ router.put('/:id', [auth], async (req, res) => {
     return res.status(401).send({errors: 'Unauthorized'});
   }
 });
+
 
 router.delete('/:id', auth, async (req, res) => {
   const user = await User.findById(req.params.id);
