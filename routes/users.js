@@ -43,19 +43,17 @@ router.post('/', async (req, res) => {
 });
 
 router.put('/:id', [auth], async (req, res) => {
+  const id = req.params.id
   const { error } = validate(req.body);
   if (error) return res.status(422).send({errors: error.details[0].message});
 
-  const user = await User.findById(req.params.id);
+  const user = await User.findByIdAndUpdate(id, req.body);
 
   if(JSON.stringify(req.user._id) === JSON.stringify(req.params.id)) {
-    const salt = await bcrypt.genSalt(10)
-    const password = await bcrypt.hash(req.body.password, salt)
     await user.updateOne({
       name: req.body.name,
       email: req.body.email,
       bio: req.body.bio,
-      password: password
     });
     const updatedUser = await User.findById(req.user._id);
     res.status(200).send({user: updatedUser});
