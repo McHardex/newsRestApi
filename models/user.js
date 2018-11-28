@@ -29,6 +29,8 @@ const userSchema = new Schema({
     required: true,
     minlength: 6,
   },
+  resetPasswordToken: String,
+  resetPasswordExpires: Date,
   isWriter: Boolean,
   articles: [{ type: Schema.Types.ObjectId, ref: 'Article' }]
 });
@@ -61,7 +63,16 @@ function validateUserUpdate(user) {
   return Joi.validate(user, schema);
 }
 
+function validateUserEmail(user) {
+  const schema = {
+    email: Joi.string().email().min(5).max(255).required(),
+  };
+
+  return Joi.validate(user, schema);
+}
+
 exports.userSchema = userSchema;
 exports.User = User;
 exports.validate = validateUser;
 exports.validateUserUpdate = validateUserUpdate;
+exports.validateUserEmail = validateUserEmail;
