@@ -45,7 +45,7 @@ router.post('/', async (req, res) => {
         console.log('there is an error sending recovery link')
       } else {
         console.log('here is the response ', response)
-        res.status(200).send({message: 'recovery email sent' });
+        res.status(200).send({message: 'recovery email sent. Check your spam folder if email is not found' });
       }
     });
 });
