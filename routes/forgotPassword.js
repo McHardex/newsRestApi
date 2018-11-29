@@ -7,7 +7,7 @@ const nodemailer = require('nodemailer')
 
 router.post('/', async (req, res) => {
   const { error } = validateUserEmail(req.body);
-  if (error) return res.status(422).send({errors: error.details[0].message});
+  if (error) return res.status(422).send({inputError: error.details[0].message});
 
   let user = await User.findOne({ email: req.body.email });
   if(!user) return res.status(404).send({error: 'email does not exist in our database'});
@@ -42,7 +42,7 @@ router.post('/', async (req, res) => {
 
     transporter.sendMail(mailOptions, (err, response) => {
       if(err) {
-        res.send(new Error(err))
+        console.log('there is an error sending recovery link')
       } else {
         console.log('here is the response ', response)
         res.status(200).send({message: 'recovery email sent' });
