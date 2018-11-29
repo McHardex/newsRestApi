@@ -4,6 +4,7 @@ const writers = require('../routes/writers');
 const users = require('../routes/users');
 const auth = require('../routes/auth');
 const forgotPassword = require('../routes/forgotPassword');
+const resetPassword = require('../routes/resetPassword');
 const error = require('../middleware/error');
 const cors = require('cors');
 const corsOptions = require('../middleware/corsOptions')
@@ -16,5 +17,6 @@ module.exports = function(app) {
   app.use('/api/users', users);
   app.use('/api/auth', auth);
   app.use('/api/forgotPassword', forgotPassword);
+  app.use('/api/reset', resetPassword);
   app.use(error)
 }
