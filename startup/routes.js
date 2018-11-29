@@ -10,8 +10,8 @@ const cors = require('cors');
 const corsOptions = require('../middleware/corsOptions')
 
 module.exports = function(app) {
-  app.use(express.json());
   app.use(cors(corsOptions));
+  app.use(express.json());
   app.use('/api/articles', articles);
   app.use('/api/writers', writers);
   app.use('/api/users', users);
