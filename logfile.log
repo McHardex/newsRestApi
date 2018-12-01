@@ -1773,3 +1773,7 @@
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-11-29T09:25:57.431Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2018-11-29T09:53:30.595Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-11-29T09:53:30.686Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T06:57:36.148Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:57:36.208Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T06:57:49.652Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:57:49.717Z"}
