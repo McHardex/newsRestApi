@@ -28,8 +28,7 @@ router.post('/', [auth], async (req, res) => {
     user: user._id,
     leadParagraph: req.body.leadParagraph,
     body: req.body.body,
-    subheading: req.body.subheading,
-    imageUrl: req.body.imageUrl
+    subheading: req.body.subheading
   });
 
   article = await article.save();

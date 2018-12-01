@@ -29,10 +29,8 @@ const articleSchema = new Schema({
     maxlength: 1000
   },
   imageUrl: {
-    type: String,
-    required: true,
-    minlength: 5,
-    maxlength: 255
+    data: Buffer,
+    contentType: String,
   },
   datePublished: { 
     type: Date, 
@@ -50,7 +48,6 @@ function validateArticle(article) {
     subheading: Joi.string().min(20).max(100).required(),
     leadParagraph: Joi.string().min(50).max(1000).required(),
     body: Joi.string().min(50).max(1000).required(),
-    imageUrl: Joi.string().min(5).max(255).required()
   };
 
   return Joi.validate(article, schema);
