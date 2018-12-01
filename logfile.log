@@ -1779,3 +1779,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:47:45.020Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T06:47:48.158Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:47:48.260Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T06:59:58.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:59:58.160Z"}
