@@ -1781,3 +1781,392 @@
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:47:48.260Z"}
 {"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T06:59:58.091Z"}
 {"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T06:59:58.160Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T13:02:19.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T13:02:19.393Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T13:06:59.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T13:06:59.703Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:29:41.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:29:41.609Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:31:58.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:31:58.326Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:32:38.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:32:38.481Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:33:08.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:33:08.873Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:33:26.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:33:26.521Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:33:33.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:33:33.263Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:34:30.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:34:30.849Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:34:49.684Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:34:49.757Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:38:49.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:38:50.077Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:39:53.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:39:53.934Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:40:37.208Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:40:37.297Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T14:53:39.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T14:53:39.460Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:12:32.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:12:32.666Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:15:51.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:15:51.497Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:19:32.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:19:32.827Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:22:18.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:22:18.534Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:24:19.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:24:20.001Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:26:21.678Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:26:21.753Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:28:48.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:28:48.516Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:29:47.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:29:47.137Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:41:32.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:41:32.516Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T15:43:34.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T15:43:34.845Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T17:13:55.845Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T17:13:56.122Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T17:26:19.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T17:26:19.944Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T17:51:44.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T17:51:44.426Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T17:54:09.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T17:54:09.920Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T17:56:33.673Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T17:56:33.762Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:11:30.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:11:30.438Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:11:48.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:11:48.453Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:13:08.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:13:08.679Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:13:13.816Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:13:13.887Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:13:32.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:13:32.257Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:14:21.194Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:14:21.277Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:14:38.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:14:38.602Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:14:55.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:14:55.372Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:15:06.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:15:06.254Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:15:16.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:15:16.186Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:15:22.303Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:15:22.403Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:16:46.136Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:16:46.262Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:21:17.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:21:17.919Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:23:20.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:23:20.757Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:25:35.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:25:36.074Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:52:45.092Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:52:45.165Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T18:54:48.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T18:54:48.460Z"}
+{"message":"token is not defined","stack":"ReferenceError: token is not defined\n    at validateUser (/Users/mchardex/Desktop/workspace/newsRestApi/models/user.js:51:25)\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:27:21)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:317:13)","level":"error","timestamp":"2018-12-01T18:57:41.120Z"}
+{"message":"token is not defined","stack":"ReferenceError: token is not defined\n    at validateUser (/Users/mchardex/Desktop/workspace/newsRestApi/models/user.js:51:25)\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:27:21)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:317:13)","level":"error","timestamp":"2018-12-01T18:58:02.993Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:00:15.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:00:15.609Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:03:19.367Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:03:19.446Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:03:35.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:03:35.679Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:33:22)","level":"error","timestamp":"2018-12-01T19:03:38.899Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:04:30.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:04:30.406Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:31:22)","level":"error","timestamp":"2018-12-01T19:04:34.546Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:04:55.970Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:04:56.078Z"}
+{"message":"token is not defined","stack":"ReferenceError: token is not defined\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:39:25)","level":"error","timestamp":"2018-12-01T19:04:59.092Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:07:24.501Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:07:24.592Z"}
+{"message":"Cannot read property 'generateAuthToken' of null","stack":"TypeError: Cannot read property 'generateAuthToken' of null\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:31:22)","level":"error","timestamp":"2018-12-01T19:07:30.200Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:10:07.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:10:07.786Z"}
+{"message":"User validation failed: resetPasswordExpires: Cast to Date failed for value \"function now() { [native code] }36000\" at path \"resetPasswordExpires\"","errors":{"resetPasswordExpires":{"message":"Cast to Date failed for value \"function now() { [native code] }36000\" at path \"resetPasswordExpires\"","name":"CastError","stringValue":"\"function now() { [native code] }36000\"","kind":"Date","value":"function now() { [native code] }36000","path":"resetPasswordExpires","reason":{"message":"Cast to date failed for value \"function now() { [native code] }36000\" at path \"resetPasswordExpires\"","name":"CastError","stringValue":"\"function now() { [native code] }36000\"","kind":"date","value":"function now() { [native code] }36000","path":"resetPasswordExpires"}}},"_message":"User validation failed","stack":"ValidationError: User validation failed: resetPasswordExpires: Cast to Date failed for value \"function now() { [native code] }36000\" at path \"resetPasswordExpires\"\n    at new ValidationError (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/error/validation.js:30:11)\n    at model.Document.invalidate (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/document.js:1978:32)\n    at model.$set (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/document.js:951:10)\n    at model._handleIndex (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/document.js:755:14)\n    at model.$set (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/document.js:701:22)\n    at model.Document (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/document.js:116:12)\n    at model.Model (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/model.js:72:12)\n    at new model (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/mongoose/lib/model.js:4348:13)\n    at router.post (/Users/mchardex/Desktop/workspace/newsRestApi/routes/users.js:34:10)","name":"ValidationError","level":"error","timestamp":"2018-12-01T19:10:17.793Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:11:47.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:11:47.552Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:12:42.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:12:43.068Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:12:57.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:12:58.144Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:18:38.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:18:38.789Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:18:46.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:18:46.946Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:19:06.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:19:06.963Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:24:21.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:24:21.170Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:26:59.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:26:59.905Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:29:12.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:29:12.523Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:31:44.862Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:31:44.959Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:33:29.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:33:29.582Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:35:18.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:35:19.067Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:41:14.281Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:41:14.416Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:43:13.600Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:43:13.726Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:43:25.587Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:43:25.651Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:44:01.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:44:01.479Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:44:22.842Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:44:22.949Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:53:22.279Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:53:22.392Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:57:35.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:57:35.917Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:58:57.601Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:58:57.676Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T19:59:11.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T19:59:11.539Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:00:33.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:00:33.592Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:02:23.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:02:23.356Z"}
+{"message":"User.find(...).pretty is not a function","stack":"TypeError: User.find(...).pretty is not a function\n    at router.get (/Users/mchardex/Desktop/workspace/newsRestApi/routes/resetPassword.js:7:156)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:317:13)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-12-01T20:02:28.908Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:02:58.769Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:02:58.841Z"}
+{"message":"User.find(...).toArray is not a function","stack":"TypeError: User.find(...).toArray is not a function\n    at router.get (/Users/mchardex/Desktop/workspace/newsRestApi/routes/resetPassword.js:7:156)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:317:13)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-12-01T20:03:04.825Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:03:44.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:03:44.463Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:04:36.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:04:36.083Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:06:13.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:06:13.620Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:767:10)\n    at ServerResponse.send (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:170:12)\n    at ServerResponse.json (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:267:15)\n    at ServerResponse.send (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:158:21)\n    at router.get (/Users/mchardex/Desktop/workspace/newsRestApi/routes/resetPassword.js:14:21)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2018-12-01T20:06:20.790Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:06:53.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:06:53.327Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:07:17.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:07:17.786Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:767:10)\n    at ServerResponse.json (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:264:10)\n    at ServerResponse.send (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/response.js:158:21)\n    at router.get (/Users/mchardex/Desktop/workspace/newsRestApi/routes/resetPassword.js:14:21)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2018-12-01T20:07:22.390Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:08:40.046Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:08:40.109Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:09:07.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:09:07.561Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:12:12.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:12:12.530Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:13:16.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:13:16.771Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:16:48.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:16:48.938Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:17:20.274Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:17:20.375Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:21:41.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:21:41.447Z"}
+{"message":"Cannot read property 'toString' of undefined","stack":"TypeError: Cannot read property 'toString' of undefined\n    at router.get (/Users/mchardex/Desktop/workspace/newsRestApi/routes/resetPassword.js:7:144)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express-async-errors/index.js:25:20)\n    at Layer.handle [as handle_request] (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:317:13)\n    at /Users/mchardex/Desktop/workspace/newsRestApi/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2018-12-01T20:21:46.286Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:22:29.795Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:22:29.865Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:24:55.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:24:55.274Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:34:06.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:34:06.511Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:34:51.481Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:34:51.555Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:36:48.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:36:49.055Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:37:23.747Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:37:23.858Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:37:49.817Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:37:49.902Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:40:16.572Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:40:16.726Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:41:51.068Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:41:51.159Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:42:21.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:42:21.799Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:44:08.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:44:08.504Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:44:22.416Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:44:22.508Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:50:56.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:50:57.043Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:51:29.042Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:51:29.165Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:54:45.873Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:54:45.945Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:54:56.129Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:54:56.245Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:55:34.768Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:55:34.875Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:56:53.212Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:56:53.316Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:57:56.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:57:56.921Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T20:59:22.121Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T20:59:22.236Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:01:09.906Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:01:10.015Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:16:37.181Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:16:37.278Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:22:14.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:22:14.984Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:23:16.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:23:16.922Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:24:40.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:24:40.936Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:25:31.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:25:31.387Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:26:33.993Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:26:34.081Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:46:16.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:46:16.633Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:47:27.264Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:47:27.386Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:48:25.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:48:25.307Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:49:03.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:49:03.810Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:56:00.893Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:56:00.971Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:56:22.301Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:56:22.370Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:57:52.570Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:57:52.677Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:58:41.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:58:42.072Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T21:59:43.474Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T21:59:43.572Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:00:13.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:00:13.697Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:00:37.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:00:37.407Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:01:48.247Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:01:48.360Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:02:34.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:02:34.223Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:02:59.732Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:02:59.845Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:03:58.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:03:58.809Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-01T22:04:49.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-01T22:04:49.558Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:18:40.113Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:20:39.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:20:39.696Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:28:21.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:28:22.110Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:30:07.244Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:30:07.324Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:30:45.206Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:30:45.304Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:32:07.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:32:08.069Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:33:28.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:33:28.370Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:35:44.928Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:35:45.031Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:36:18.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:36:18.863Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:36:42.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:36:42.592Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:38:40.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:38:41.003Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:40:47.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:40:47.680Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:43:38.712Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:43:38.808Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:44:17.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:44:17.538Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:52:18.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:52:18.210Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:52:44.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:52:44.155Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:53:13.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:53:14.022Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:54:51.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:54:51.731Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:55:20.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:55:20.697Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:56:49.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:56:49.423Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:57:23.596Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:57:23.669Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T14:59:11.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T14:59:11.432Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:02:33.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:02:33.786Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:02:55.836Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:02:55.956Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:03:50.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:03:50.341Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:30:49.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:30:49.365Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:31:44.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:31:44.189Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T15:40:18.674Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T15:40:18.763Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:28:54.913Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:28:54.978Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:29:42.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:29:42.389Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:30:16.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:30:16.315Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:32:31.714Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:32:31.855Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:40:39.020Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:40:39.090Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:41:29.289Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:41:29.416Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:43:16.197Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:43:16.300Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:46:41.348Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:46:41.413Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T16:54:02.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T16:54:02.194Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T17:02:48.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T17:02:48.161Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T17:04:17.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T17:04:17.927Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:25:20.359Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:25:20.484Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:30:50.867Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:30:50.936Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:31:06.459Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:31:06.537Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:31:19.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:31:19.912Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:32:20.336Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:32:20.412Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:35:03.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:35:03.309Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:35:19.723Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:35:19.854Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:36:40.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:36:40.881Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:42:30.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:42:30.305Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:46:31.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:46:31.526Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:46:48.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:46:48.684Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:49:24.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:49:24.439Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:51:53.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:51:53.808Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:54:11.547Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:54:11.627Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T18:55:34.745Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T18:55:34.982Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-02T19:04:31.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-02T19:04:31.733Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-05T14:32:30.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-05T14:32:30.356Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2018-12-05T14:40:30.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/news...","timestamp":"2018-12-05T14:40:30.610Z"}
