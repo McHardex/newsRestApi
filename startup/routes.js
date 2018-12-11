@@ -12,7 +12,8 @@ const cors = require('cors');
 
 module.exports = function(app) {
   app.use(express.json());
-  app.use(cors())
+  app.use(cors());
+  app.options('*', cors());
   app.use('/api/articles', articles);
   app.use('/api/writers', writers);
   app.use('/api/users', users);
