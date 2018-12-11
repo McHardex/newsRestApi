@@ -11,9 +11,14 @@ const cors = require('cors');
 // const corsOptions = require('../middleware/corsOptions')
 
 module.exports = function(app) {
+  app.use(cors({
+    'allowedHeaders': ['sessionId', 'Content-Type'],
+    'exposedHeaders': ['sessionId'],
+    'origin': '*',
+    'methods': 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    'preflightContinue': false
+  }));
   app.use(express.json());
-  app.use(cors())
-  app.options('*', cors())
   app.use('/api/articles', articles);
   app.use('/api/writers', writers);
   app.use('/api/users', users);
