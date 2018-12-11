@@ -10,7 +10,6 @@ router.get('/:token', async (req, res) => {
       { resetPasswordToken: req.params.token }]
     }
   )
-
   // console.log(user)
 
   if(!user) {
