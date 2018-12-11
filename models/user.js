@@ -3,7 +3,6 @@ const config = require('config');
 const Joi = require('joi');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-// const crypto = require('crypto');
 
 const userSchema = new Schema({
   name: {
