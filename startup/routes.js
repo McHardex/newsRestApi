@@ -7,9 +7,13 @@ const forgotPassword = require('../routes/forgotPassword');
 const resetPassword = require('../routes/resetPassword');
 const updatePasswordViaEmail = require('../routes/updatePasswordViaEmail');
 const error = require('../middleware/error');
+const cors = require('cors');
+// const corsOptions = require('../middleware/corsOptions')
 
 module.exports = function(app) {
   app.use(express.json());
+  app.use(cors());
+  app.options('*', cors());
   app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Methods", "GET,HEAD,PUT,PATCH,POST,DELETE");
